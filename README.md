@@ -25,6 +25,30 @@ The goal is to identify inventory risks, analyze sales performance, evaluate sup
 - **Excel** – Data inspection and validation
 - **GitHub** – Project documentation and version control
 
+## 🔄 Project Workflow
+
+1. **Data Generation & Preparation**
+   - Generated and prepared supply chain datasets using Python and Pandas.
+   - Created datasets for products, inventory, orders, suppliers, and warehouses.
+
+2. **Data Storage & SQL Analysis**
+   - Stored the datasets in MySQL.
+   - Used SQL queries to analyze revenue, inventory, suppliers, warehouses, and order trends.
+
+3. **Data Modeling**
+   - Connected the datasets in Power BI.
+   - Created relationships between products, inventory, orders, suppliers, and warehouses.
+
+4. **Data Visualization**
+   - Built interactive Power BI visuals and KPI cards.
+   - Added filters for warehouse, category, and order date.
+
+5. **Business Insights**
+   - Identified high-revenue categories and products.
+   - Identified products requiring replenishment.
+   - Compared supplier and warehouse performance.
+   - Analyzed monthly revenue trends.
+
 ## 🗄️ Database Structure
 
 The project contains five main tables:
