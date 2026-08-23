@@ -190,3 +190,13 @@ Supply-Chain-Analytics/
 │   └── supply-chain-dashboard.png
 │
 └── README.md
+
+## 💼 Skills Demonstrated
+
+- **SQL:** Joins, aggregations, filtering, grouping, sorting, and business analysis
+- **Power BI:** Data modeling, DAX measures, KPI cards, interactive charts, slicers, and dashboards
+- **Python:** Pandas-based data generation and preparation
+- **Data Analysis:** Revenue, inventory, supplier, warehouse, and product analysis
+- **Business Intelligence:** Identifying trends, inventory risks, and operational insights
+- **Data Visualization:** Creating interactive and business-focused dashboards
+- **Git & GitHub:** Project organization, version control, and documentation
