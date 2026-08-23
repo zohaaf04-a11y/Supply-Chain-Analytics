@@ -1,0 +1,551 @@
+Product_ID,Product_Name,Category,Brand,Unit_Cost,Unit_Price
+101,Dell Laptop,Electronics,Dell,14943,18203
+102,Dell Gaming Laptop,Electronics,Dell,5280,6538
+103,Dell Desktop,Electronics,Dell,48116,55459
+104,Dell Monitor,Electronics,Dell,41099,49466
+105,Dell Keyboard,Electronics,Dell,42403,56011
+106,Dell Mouse,Electronics,Dell,2050,2514
+107,Dell Printer,Electronics,Dell,34114,47450
+108,Dell Scanner,Electronics,Dell,23687,32818
+109,Dell Router,Electronics,Dell,14373,17253
+110,Dell Tablet,Electronics,Dell,46860,56110
+111,Dell Smart Watch,Electronics,Dell,2170,2756
+112,Dell Earbuds,Electronics,Dell,32926,39194
+113,Dell SSD,Electronics,Dell,39488,53649
+114,Dell Hard Drive,Electronics,Dell,27588,36754
+115,Dell Webcam,Electronics,Dell,31733,37862
+116,HP Laptop,Electronics,HP,38056,46043
+117,HP Gaming Laptop,Electronics,HP,22331,29091
+118,HP Desktop,Electronics,HP,19897,26336
+119,HP Monitor,Electronics,HP,5626,7495
+120,HP Keyboard,Electronics,HP,21423,28016
+121,HP Mouse,Electronics,HP,40096,47616
+122,HP Printer,Electronics,HP,33102,39812
+123,HP Scanner,Electronics,HP,3853,5038
+124,HP Router,Electronics,HP,49054,62186
+125,HP Tablet,Electronics,HP,17665,22305
+126,HP Smart Watch,Electronics,HP,25945,33079
+127,HP Earbuds,Electronics,HP,33257,39363
+128,HP SSD,Electronics,HP,47575,59989
+129,HP Hard Drive,Electronics,HP,6582,8141
+130,HP Webcam,Electronics,HP,1547,1823
+131,Lenovo Laptop,Electronics,Lenovo,34520,40188
+132,Lenovo Gaming Laptop,Electronics,Lenovo,43220,52968
+133,Lenovo Desktop,Electronics,Lenovo,9552,12332
+134,Lenovo Monitor,Electronics,Lenovo,23812,31264
+135,Lenovo Keyboard,Electronics,Lenovo,8955,11183
+136,Lenovo Mouse,Electronics,Lenovo,49207,67375
+137,Lenovo Printer,Electronics,Lenovo,17031,22400
+138,Lenovo Scanner,Electronics,Lenovo,49507,59797
+139,Lenovo Router,Electronics,Lenovo,9717,13402
+140,Lenovo Tablet,Electronics,Lenovo,1016,1337
+141,Lenovo Smart Watch,Electronics,Lenovo,37939,49908
+142,Lenovo Earbuds,Electronics,Lenovo,35130,41432
+143,Lenovo SSD,Electronics,Lenovo,1527,1834
+144,Lenovo Hard Drive,Electronics,Lenovo,12610,16786
+145,Lenovo Webcam,Electronics,Lenovo,44279,61369
+146,Apple Laptop,Electronics,Apple,30767,37374
+147,Apple Gaming Laptop,Electronics,Apple,31344,39694
+148,Apple Desktop,Electronics,Apple,1886,2362
+149,Apple Monitor,Electronics,Apple,10224,13234
+150,Apple Keyboard,Electronics,Apple,10874,13581
+151,Apple Mouse,Electronics,Apple,30051,39836
+152,Apple Printer,Electronics,Apple,9588,12206
+153,Apple Scanner,Electronics,Apple,9559,11002
+154,Apple Router,Electronics,Apple,7103,9075
+155,Apple Tablet,Electronics,Apple,22361,25725
+156,Apple Smart Watch,Electronics,Apple,32907,41247
+157,Apple Earbuds,Electronics,Apple,20943,25043
+158,Apple SSD,Electronics,Apple,26925,31778
+159,Apple Hard Drive,Electronics,Apple,16252,18767
+160,Apple Webcam,Electronics,Apple,3438,4663
+161,Samsung Laptop,Electronics,Samsung,38623,47165
+162,Samsung Gaming Laptop,Electronics,Samsung,23927,28488
+163,Samsung Desktop,Electronics,Samsung,7784,10004
+164,Samsung Monitor,Electronics,Samsung,28537,39425
+165,Samsung Keyboard,Electronics,Samsung,10271,14337
+166,Samsung Mouse,Electronics,Samsung,14837,18374
+167,Samsung Printer,Electronics,Samsung,46066,57088
+168,Samsung Scanner,Electronics,Samsung,43544,58139
+169,Samsung Router,Electronics,Samsung,5116,6375
+170,Samsung Tablet,Electronics,Samsung,4665,6139
+171,Samsung Smart Watch,Electronics,Samsung,11801,15246
+172,Samsung Earbuds,Electronics,Samsung,27972,33183
+173,Samsung SSD,Electronics,Samsung,44338,56553
+174,Samsung Hard Drive,Electronics,Samsung,24498,30940
+175,Samsung Webcam,Electronics,Samsung,5113,6659
+176,Asus Laptop,Electronics,Asus,12405,14391
+177,Asus Gaming Laptop,Electronics,Asus,35696,48746
+178,Asus Desktop,Electronics,Asus,25008,30251
+179,Asus Monitor,Electronics,Asus,6998,8909
+180,Asus Keyboard,Electronics,Asus,23971,30560
+181,Asus Mouse,Electronics,Asus,12166,15972
+182,Asus Printer,Electronics,Asus,1737,2117
+183,Asus Scanner,Electronics,Asus,11167,15402
+184,Asus Router,Electronics,Asus,25289,30660
+185,Asus Tablet,Electronics,Asus,17387,22158
+186,Asus Smart Watch,Electronics,Asus,33053,44746
+187,Asus Earbuds,Electronics,Asus,33263,42967
+188,Asus SSD,Electronics,Asus,41867,52965
+189,Asus Hard Drive,Electronics,Asus,15498,19851
+190,Asus Webcam,Electronics,Asus,19209,23666
+191,Acer Laptop,Electronics,Acer,16807,20662
+192,Acer Gaming Laptop,Electronics,Acer,4102,5685
+193,Acer Desktop,Electronics,Acer,42069,55259
+194,Acer Monitor,Electronics,Acer,36157,42695
+195,Acer Keyboard,Electronics,Acer,8743,11382
+196,Acer Mouse,Electronics,Acer,36129,47762
+197,Acer Printer,Electronics,Acer,2305,2666
+198,Acer Scanner,Electronics,Acer,7762,8989
+199,Acer Router,Electronics,Acer,19053,24163
+200,Acer Tablet,Electronics,Acer,38895,48400
+201,Acer Smart Watch,Electronics,Acer,17345,20943
+202,Acer Earbuds,Electronics,Acer,9074,11947
+203,Acer SSD,Electronics,Acer,6306,7254
+204,Acer Hard Drive,Electronics,Acer,41516,52633
+205,Acer Webcam,Electronics,Acer,31333,38674
+206,MSI Laptop,Electronics,MSI,27475,36711
+207,MSI Gaming Laptop,Electronics,MSI,33827,42269
+208,MSI Desktop,Electronics,MSI,8965,11179
+209,MSI Monitor,Electronics,MSI,4038,4647
+210,MSI Keyboard,Electronics,MSI,19866,26230
+211,MSI Mouse,Electronics,MSI,803,1112
+212,MSI Printer,Electronics,MSI,46698,61911
+213,MSI Scanner,Electronics,MSI,11180,12983
+214,MSI Router,Electronics,MSI,48476,65955
+215,MSI Tablet,Electronics,MSI,12910,16749
+216,MSI Smart Watch,Electronics,MSI,26331,33998
+217,MSI Earbuds,Electronics,MSI,12593,14869
+218,MSI SSD,Electronics,MSI,24265,30045
+219,MSI Hard Drive,Electronics,MSI,3701,4340
+220,MSI Webcam,Electronics,MSI,10636,12471
+221,Godrej Office Chair,Furniture,Godrej,12908,17704
+222,Godrej Office Desk,Furniture,Godrej,46510,55820
+223,Godrej Bookshelf,Furniture,Godrej,25089,32894
+224,Godrej Cabinet,Furniture,Godrej,9044,12322
+225,Godrej Dining Table,Furniture,Godrej,4225,5619
+226,Godrej Coffee Table,Furniture,Godrej,25064,29288
+227,Godrej Wardrobe,Furniture,Godrej,33806,45459
+228,Godrej Sofa,Furniture,Godrej,8447,10386
+229,Godrej Bed Frame,Furniture,Godrej,27939,32564
+230,Godrej TV Unit,Furniture,Godrej,12424,14848
+231,IKEA Office Chair,Furniture,IKEA,47982,60750
+232,IKEA Office Desk,Furniture,IKEA,31240,39173
+233,IKEA Bookshelf,Furniture,IKEA,4545,5515
+234,IKEA Cabinet,Furniture,IKEA,24411,31640
+235,IKEA Dining Table,Furniture,IKEA,39627,47706
+236,IKEA Coffee Table,Furniture,IKEA,8476,10344
+237,IKEA Wardrobe,Furniture,IKEA,27515,37590
+238,IKEA Sofa,Furniture,IKEA,12368,15160
+239,IKEA Bed Frame,Furniture,IKEA,24422,29301
+240,IKEA TV Unit,Furniture,IKEA,29930,37830
+241,Nilkamal Office Chair,Furniture,Nilkamal,45813,63902
+242,Nilkamal Office Desk,Furniture,Nilkamal,38565,53767
+243,Nilkamal Bookshelf,Furniture,Nilkamal,38218,52731
+244,Nilkamal Cabinet,Furniture,Nilkamal,17177,21829
+245,Nilkamal Dining Table,Furniture,Nilkamal,30288,36423
+246,Nilkamal Coffee Table,Furniture,Nilkamal,46566,59925
+247,Nilkamal Wardrobe,Furniture,Nilkamal,44082,52297
+248,Nilkamal Sofa,Furniture,Nilkamal,45230,58715
+249,Nilkamal Bed Frame,Furniture,Nilkamal,12026,15201
+250,Nilkamal TV Unit,Furniture,Nilkamal,31268,36099
+251,Durian Office Chair,Furniture,Durian,14923,20494
+252,Durian Office Desk,Furniture,Durian,5843,7431
+253,Durian Bookshelf,Furniture,Durian,32774,40605
+254,Durian Cabinet,Furniture,Durian,43762,58170
+255,Durian Dining Table,Furniture,Durian,43025,49709
+256,Durian Coffee Table,Furniture,Durian,24996,32255
+257,Durian Wardrobe,Furniture,Durian,24792,30691
+258,Durian Sofa,Furniture,Durian,27927,32144
+259,Durian Bed Frame,Furniture,Durian,6911,8536
+260,Durian TV Unit,Furniture,Durian,6181,7210
+261,Urban Ladder Office Chair,Furniture,Urban Ladder,2861,3433
+262,Urban Ladder Office Desk,Furniture,Urban Ladder,37728,47906
+263,Urban Ladder Bookshelf,Furniture,Urban Ladder,10307,13533
+264,Urban Ladder Cabinet,Furniture,Urban Ladder,33811,41136
+265,Urban Ladder Dining Table,Furniture,Urban Ladder,13258,15561
+266,Urban Ladder Coffee Table,Furniture,Urban Ladder,39689,46293
+267,Urban Ladder Wardrobe,Furniture,Urban Ladder,4771,5937
+268,Urban Ladder Sofa,Furniture,Urban Ladder,21951,27491
+269,Urban Ladder Bed Frame,Furniture,Urban Ladder,22848,31690
+270,Urban Ladder TV Unit,Furniture,Urban Ladder,11954,15622
+271,Nike T-Shirt,Clothing,Nike,5721,7478
+272,Nike Jeans,Clothing,Nike,30571,38005
+273,Nike Jacket,Clothing,Nike,32337,38422
+274,Nike Shoes,Clothing,Nike,38161,49827
+275,Nike Cap,Clothing,Nike,13152,15199
+276,Nike Hoodie,Clothing,Nike,559,763
+277,Nike Shorts,Clothing,Nike,41141,53837
+278,Nike Sweater,Clothing,Nike,40086,55898
+279,Nike Socks,Clothing,Nike,10495,12192
+280,Nike Track Pants,Clothing,Nike,24348,34028
+281,Adidas T-Shirt,Clothing,Adidas,7369,9555
+282,Adidas Jeans,Clothing,Adidas,20712,24657
+283,Adidas Jacket,Clothing,Adidas,39880,52408
+284,Adidas Shoes,Clothing,Adidas,33418,42514
+285,Adidas Cap,Clothing,Adidas,35799,47520
+286,Adidas Hoodie,Clothing,Adidas,30417,40606
+287,Adidas Shorts,Clothing,Adidas,2534,3124
+288,Adidas Sweater,Clothing,Adidas,22015,28508
+289,Adidas Socks,Clothing,Adidas,8162,9984
+290,Adidas Track Pants,Clothing,Adidas,8724,10974
+291,Puma T-Shirt,Clothing,Puma,46414,63408
+292,Puma Jeans,Clothing,Puma,20210,25146
+293,Puma Jacket,Clothing,Puma,26358,31420
+294,Puma Shoes,Clothing,Puma,12312,14512
+295,Puma Cap,Clothing,Puma,45006,53121
+296,Puma Hoodie,Clothing,Puma,19310,25707
+297,Puma Shorts,Clothing,Puma,25935,33679
+298,Puma Sweater,Clothing,Puma,16378,19575
+299,Puma Socks,Clothing,Puma,33284,44881
+300,Puma Track Pants,Clothing,Puma,11512,13380
+301,Levis T-Shirt,Clothing,Levis,7270,9063
+302,Levis Jeans,Clothing,Levis,43499,52069
+303,Levis Jacket,Clothing,Levis,48188,65352
+304,Levis Shoes,Clothing,Levis,15247,18934
+305,Levis Cap,Clothing,Levis,21536,28394
+306,Levis Hoodie,Clothing,Levis,5527,6895
+307,Levis Shorts,Clothing,Levis,13682,16817
+308,Levis Sweater,Clothing,Levis,24589,28313
+309,Levis Socks,Clothing,Levis,20415,27897
+310,Levis Track Pants,Clothing,Levis,6546,8705
+311,Zara T-Shirt,Clothing,Zara,18939,22313
+312,Zara Jeans,Clothing,Zara,45100,55595
+313,Zara Jacket,Clothing,Zara,47944,66746
+314,Zara Shoes,Clothing,Zara,20030,25231
+315,Zara Cap,Clothing,Zara,15406,21310
+316,Zara Hoodie,Clothing,Zara,35842,45151
+317,Zara Shorts,Clothing,Zara,4692,6032
+318,Zara Sweater,Clothing,Zara,37576,48115
+319,Zara Socks,Clothing,Zara,14541,17518
+320,Zara Track Pants,Clothing,Zara,45550,61547
+321,H&M T-Shirt,Clothing,H&M,47261,64651
+322,H&M Jeans,Clothing,H&M,48184,66285
+323,H&M Jacket,Clothing,H&M,14625,20015
+324,H&M Shoes,Clothing,H&M,12188,16727
+325,H&M Cap,Clothing,H&M,10329,11990
+326,H&M Hoodie,Clothing,H&M,39027,54482
+327,H&M Shorts,Clothing,H&M,5766,7821
+328,H&M Sweater,Clothing,H&M,42341,58036
+329,H&M Socks,Clothing,H&M,11305,14455
+330,H&M Track Pants,Clothing,H&M,774,990
+331,Amul Milk,Grocery,Amul,46270,55314
+332,Amul Butter,Grocery,Amul,37297,50068
+333,Amul Tea,Grocery,Amul,39641,46871
+334,Amul Coffee,Grocery,Amul,500,681
+335,Amul Rice,Grocery,Amul,26681,32600
+336,Amul Sugar,Grocery,Amul,25761,32327
+337,Amul Salt,Grocery,Amul,1174,1484
+338,Amul Biscuits,Grocery,Amul,45427,55703
+339,Amul Cooking Oil,Grocery,Amul,39110,49670
+340,Amul Pasta,Grocery,Amul,35614,45378
+341,Nestle Milk,Grocery,Nestle,38632,48513
+342,Nestle Butter,Grocery,Nestle,29244,36763
+343,Nestle Tea,Grocery,Nestle,25987,29913
+344,Nestle Coffee,Grocery,Nestle,36168,49277
+345,Nestle Rice,Grocery,Nestle,6563,8895
+346,Nestle Sugar,Grocery,Nestle,36731,43134
+347,Nestle Salt,Grocery,Nestle,27258,35750
+348,Nestle Biscuits,Grocery,Nestle,13855,17728
+349,Nestle Cooking Oil,Grocery,Nestle,24840,28669
+350,Nestle Pasta,Grocery,Nestle,5950,7220
+351,Britannia Milk,Grocery,Britannia,12742,16983
+352,Britannia Butter,Grocery,Britannia,7533,10094
+353,Britannia Tea,Grocery,Britannia,38435,53387
+354,Britannia Coffee,Grocery,Britannia,45670,53894
+355,Britannia Rice,Grocery,Britannia,1993,2736
+356,Britannia Sugar,Grocery,Britannia,25056,34368
+357,Britannia Salt,Grocery,Britannia,7789,10728
+358,Britannia Biscuits,Grocery,Britannia,8474,9812
+359,Britannia Cooking Oil,Grocery,Britannia,9363,13025
+360,Britannia Pasta,Grocery,Britannia,10744,13669
+361,Tata Milk,Grocery,Tata,30123,38332
+362,Tata Butter,Grocery,Tata,11210,15499
+363,Tata Tea,Grocery,Tata,20618,28590
+364,Tata Coffee,Grocery,Tata,39053,50257
+365,Tata Rice,Grocery,Tata,3377,4002
+366,Tata Sugar,Grocery,Tata,9936,11937
+367,Tata Salt,Grocery,Tata,10076,13680
+368,Tata Biscuits,Grocery,Tata,1736,2322
+369,Tata Cooking Oil,Grocery,Tata,42739,55426
+370,Tata Pasta,Grocery,Tata,19515,23729
+371,Aashirvaad Milk,Grocery,Aashirvaad,17542,22508
+372,Aashirvaad Butter,Grocery,Aashirvaad,48315,60645
+373,Aashirvaad Tea,Grocery,Aashirvaad,43196,50120
+374,Aashirvaad Coffee,Grocery,Aashirvaad,19611,25078
+375,Aashirvaad Rice,Grocery,Aashirvaad,47653,60252
+376,Aashirvaad Sugar,Grocery,Aashirvaad,14072,18361
+377,Aashirvaad Salt,Grocery,Aashirvaad,41096,48559
+378,Aashirvaad Biscuits,Grocery,Aashirvaad,28152,36836
+379,Aashirvaad Cooking Oil,Grocery,Aashirvaad,29780,36429
+380,Aashirvaad Pasta,Grocery,Aashirvaad,6102,8301
+381,Lakme Face Wash,Beauty,Lakme,32366,44668
+382,Lakme Moisturizer,Beauty,Lakme,27676,35726
+383,Lakme Shampoo,Beauty,Lakme,39489,49185
+384,Lakme Conditioner,Beauty,Lakme,39122,54463
+385,Lakme Serum,Beauty,Lakme,34021,44126
+386,Lakme Sunscreen,Beauty,Lakme,42762,57794
+387,Lakme Lipstick,Beauty,Lakme,16599,21460
+388,Lakme Foundation,Beauty,Lakme,4783,6252
+389,Lakme Perfume,Beauty,Lakme,49261,64271
+390,Lakme Body Lotion,Beauty,Lakme,13361,17277
+391,Maybelline Face Wash,Beauty,Maybelline,41353,57251
+392,Maybelline Moisturizer,Beauty,Maybelline,28906,37096
+393,Maybelline Shampoo,Beauty,Maybelline,20787,26090
+394,Maybelline Conditioner,Beauty,Maybelline,24970,34026
+395,Maybelline Serum,Beauty,Maybelline,21800,26200
+396,Maybelline Sunscreen,Beauty,Maybelline,8748,10317
+397,Maybelline Lipstick,Beauty,Maybelline,48585,67956
+398,Maybelline Foundation,Beauty,Maybelline,43483,59641
+399,Maybelline Perfume,Beauty,Maybelline,27201,37556
+400,Maybelline Body Lotion,Beauty,Maybelline,23867,31547
+401,L'Oréal Face Wash,Beauty,L'Oréal,30245,41488
+402,L'Oréal Moisturizer,Beauty,L'Oréal,39848,48549
+403,L'Oréal Shampoo,Beauty,L'Oréal,34345,45807
+404,L'Oréal Conditioner,Beauty,L'Oréal,17194,20861
+405,L'Oréal Serum,Beauty,L'Oréal,26691,31338
+406,L'Oréal Sunscreen,Beauty,L'Oréal,41591,51112
+407,L'Oréal Lipstick,Beauty,L'Oréal,38834,48801
+408,L'Oréal Foundation,Beauty,L'Oréal,11244,13004
+409,L'Oréal Perfume,Beauty,L'Oréal,17906,22022
+410,L'Oréal Body Lotion,Beauty,L'Oréal,40116,52537
+411,Nivea Face Wash,Beauty,Nivea,27562,32625
+412,Nivea Moisturizer,Beauty,Nivea,5649,6581
+413,Nivea Shampoo,Beauty,Nivea,31547,36855
+414,Nivea Conditioner,Beauty,Nivea,23034,29697
+415,Nivea Serum,Beauty,Nivea,38464,44428
+416,Nivea Sunscreen,Beauty,Nivea,23896,29393
+417,Nivea Lipstick,Beauty,Nivea,29009,34585
+418,Nivea Foundation,Beauty,Nivea,27849,34882
+419,Nivea Perfume,Beauty,Nivea,23695,28140
+420,Nivea Body Lotion,Beauty,Nivea,16420,19205
+421,Pilgrim Face Wash,Beauty,Pilgrim,49811,67460
+422,Pilgrim Moisturizer,Beauty,Pilgrim,21308,27716
+423,Pilgrim Shampoo,Beauty,Pilgrim,4723,5769
+424,Pilgrim Conditioner,Beauty,Pilgrim,39206,47861
+425,Pilgrim Serum,Beauty,Pilgrim,29019,39975
+426,Pilgrim Sunscreen,Beauty,Pilgrim,41066,56953
+427,Pilgrim Lipstick,Beauty,Pilgrim,33162,39705
+428,Pilgrim Foundation,Beauty,Pilgrim,46881,55188
+429,Pilgrim Perfume,Beauty,Pilgrim,10671,12468
+430,Pilgrim Body Lotion,Beauty,Pilgrim,11606,13709
+431,Nike Football,Sports,Nike,4605,6226
+432,Nike Cricket Bat,Sports,Nike,15624,20485
+433,Nike Basketball,Sports,Nike,14688,17290
+434,Nike Tennis Racket,Sports,Nike,36362,47905
+435,Nike Yoga Mat,Sports,Nike,31696,37406
+436,Nike Dumbbells,Sports,Nike,8837,10718
+437,Nike Skipping Rope,Sports,Nike,34183,43726
+438,Nike Badminton Shuttle,Sports,Nike,13946,18009
+439,Nike Helmet,Sports,Nike,15409,21205
+440,Nike Gloves,Sports,Nike,3633,5048
+441,Adidas Football,Sports,Adidas,11980,14219
+442,Adidas Cricket Bat,Sports,Adidas,27808,35783
+443,Adidas Basketball,Sports,Adidas,37248,44432
+444,Adidas Tennis Racket,Sports,Adidas,48742,58285
+445,Adidas Yoga Mat,Sports,Adidas,23318,31473
+446,Adidas Dumbbells,Sports,Adidas,2152,2482
+447,Adidas Skipping Rope,Sports,Adidas,21583,26907
+448,Adidas Badminton Shuttle,Sports,Adidas,3328,4335
+449,Adidas Helmet,Sports,Adidas,31946,39055
+450,Adidas Gloves,Sports,Adidas,42357,55475
+451,Puma Football,Sports,Puma,45313,62895
+452,Puma Cricket Bat,Sports,Puma,27769,37171
+453,Puma Basketball,Sports,Puma,11893,14282
+454,Puma Tennis Racket,Sports,Puma,42495,49099
+455,Puma Yoga Mat,Sports,Puma,16027,18608
+456,Puma Dumbbells,Sports,Puma,49818,67890
+457,Puma Skipping Rope,Sports,Puma,41676,57039
+458,Puma Badminton Shuttle,Sports,Puma,891,1191
+459,Puma Helmet,Sports,Puma,40902,55128
+460,Puma Gloves,Sports,Puma,22223,29824
+461,Yonex Football,Sports,Yonex,14467,18946
+462,Yonex Cricket Bat,Sports,Yonex,34278,40688
+463,Yonex Basketball,Sports,Yonex,28600,33061
+464,Yonex Tennis Racket,Sports,Yonex,37746,49331
+465,Yonex Yoga Mat,Sports,Yonex,12473,16105
+466,Yonex Dumbbells,Sports,Yonex,31709,36528
+467,Yonex Skipping Rope,Sports,Yonex,567,756
+468,Yonex Badminton Shuttle,Sports,Yonex,33951,45077
+469,Yonex Helmet,Sports,Yonex,9568,11597
+470,Yonex Gloves,Sports,Yonex,6985,9262
+471,Cosco Football,Sports,Cosco,16012,20635
+472,Cosco Cricket Bat,Sports,Cosco,16984,20374
+473,Cosco Basketball,Sports,Cosco,8850,11607
+474,Cosco Tennis Racket,Sports,Cosco,30287,41312
+475,Cosco Yoga Mat,Sports,Cosco,49420,63349
+476,Cosco Dumbbells,Sports,Cosco,14991,18522
+477,Cosco Skipping Rope,Sports,Cosco,24647,30981
+478,Cosco Badminton Shuttle,Sports,Cosco,28429,34393
+479,Cosco Helmet,Sports,Cosco,33507,45256
+480,Cosco Gloves,Sports,Cosco,37377,43298
+481,Classmate Notebook,Stationery,Classmate,15945,18930
+482,Classmate Pen,Stationery,Classmate,42588,51750
+483,Classmate Pencil,Stationery,Classmate,21660,28543
+484,Classmate Eraser,Stationery,Classmate,29384,39937
+485,Classmate Marker,Stationery,Classmate,11971,15570
+486,Classmate Highlighter,Stationery,Classmate,964,1202
+487,Classmate Geometry Box,Stationery,Classmate,16630,20815
+488,Classmate Sticky Notes,Stationery,Classmate,38127,51641
+489,Classmate Stapler,Stationery,Classmate,44166,53941
+490,Classmate File Folder,Stationery,Classmate,17823,22241
+491,Camel Notebook,Stationery,Camel,1254,1461
+492,Camel Pen,Stationery,Camel,27489,32018
+493,Camel Pencil,Stationery,Camel,41520,49432
+494,Camel Eraser,Stationery,Camel,4627,6092
+495,Camel Marker,Stationery,Camel,38766,53352
+496,Camel Highlighter,Stationery,Camel,45695,57358
+497,Camel Geometry Box,Stationery,Camel,27799,38068
+498,Camel Sticky Notes,Stationery,Camel,47077,56972
+499,Camel Stapler,Stationery,Camel,43532,60248
+500,Camel File Folder,Stationery,Camel,41247,53830
+501,Faber-Castell Notebook,Stationery,Faber-Castell,1242,1487
+502,Faber-Castell Pen,Stationery,Faber-Castell,8286,10980
+503,Faber-Castell Pencil,Stationery,Faber-Castell,29594,38984
+504,Faber-Castell Eraser,Stationery,Faber-Castell,32413,44738
+505,Faber-Castell Marker,Stationery,Faber-Castell,21734,29508
+506,Faber-Castell Highlighter,Stationery,Faber-Castell,48805,63315
+507,Faber-Castell Geometry Box,Stationery,Faber-Castell,36428,43448
+508,Faber-Castell Sticky Notes,Stationery,Faber-Castell,35492,41808
+509,Faber-Castell Stapler,Stationery,Faber-Castell,19005,22383
+510,Faber-Castell File Folder,Stationery,Faber-Castell,32738,44418
+511,Navneet Notebook,Stationery,Navneet,5348,7070
+512,Navneet Pen,Stationery,Navneet,10845,14141
+513,Navneet Pencil,Stationery,Navneet,848,979
+514,Navneet Eraser,Stationery,Navneet,5134,7054
+515,Navneet Marker,Stationery,Navneet,20266,24670
+516,Navneet Highlighter,Stationery,Navneet,33909,45831
+517,Navneet Geometry Box,Stationery,Navneet,38381,48214
+518,Navneet Sticky Notes,Stationery,Navneet,37488,48138
+519,Navneet Stapler,Stationery,Navneet,40535,49978
+520,Navneet File Folder,Stationery,Navneet,28941,34215
+521,LG Refrigerator,Home Appliances,LG,44729,57767
+522,LG Washing Machine,Home Appliances,LG,21037,25811
+523,LG Microwave,Home Appliances,LG,41904,50310
+524,LG Air Conditioner,Home Appliances,LG,33651,41988
+525,LG Vacuum Cleaner,Home Appliances,LG,34914,42542
+526,LG Mixer Grinder,Home Appliances,LG,26110,32623
+527,LG Electric Kettle,Home Appliances,LG,47942,62372
+528,LG Water Purifier,Home Appliances,LG,32375,44290
+529,LG Ceiling Fan,Home Appliances,LG,22477,26074
+530,LG Iron,Home Appliances,LG,27081,32619
+531,Samsung Refrigerator,Home Appliances,Samsung,42692,53235
+532,Samsung Washing Machine,Home Appliances,Samsung,37917,50456
+533,Samsung Microwave,Home Appliances,Samsung,19076,24514
+534,Samsung Air Conditioner,Home Appliances,Samsung,26072,31963
+535,Samsung Vacuum Cleaner,Home Appliances,Samsung,28463,38132
+536,Samsung Mixer Grinder,Home Appliances,Samsung,38596,48492
+537,Samsung Electric Kettle,Home Appliances,Samsung,28404,34784
+538,Samsung Water Purifier,Home Appliances,Samsung,7340,8733
+539,Samsung Ceiling Fan,Home Appliances,Samsung,47196,63741
+540,Samsung Iron,Home Appliances,Samsung,9035,12556
+541,Whirlpool Refrigerator,Home Appliances,Whirlpool,9541,11580
+542,Whirlpool Washing Machine,Home Appliances,Whirlpool,22758,30325
+543,Whirlpool Microwave,Home Appliances,Whirlpool,11078,13096
+544,Whirlpool Air Conditioner,Home Appliances,Whirlpool,32150,39431
+545,Whirlpool Vacuum Cleaner,Home Appliances,Whirlpool,6968,9271
+546,Whirlpool Mixer Grinder,Home Appliances,Whirlpool,14148,17825
+547,Whirlpool Electric Kettle,Home Appliances,Whirlpool,36421,44474
+548,Whirlpool Water Purifier,Home Appliances,Whirlpool,38546,51935
+549,Whirlpool Ceiling Fan,Home Appliances,Whirlpool,16469,20194
+550,Whirlpool Iron,Home Appliances,Whirlpool,24708,30430
+551,IFB Refrigerator,Home Appliances,IFB,30808,42427
+552,IFB Washing Machine,Home Appliances,IFB,12859,17970
+553,IFB Microwave,Home Appliances,IFB,31306,41208
+554,IFB Air Conditioner,Home Appliances,IFB,32423,37991
+555,IFB Vacuum Cleaner,Home Appliances,IFB,1199,1567
+556,IFB Mixer Grinder,Home Appliances,IFB,6558,8568
+557,IFB Electric Kettle,Home Appliances,IFB,42718,56060
+558,IFB Water Purifier,Home Appliances,IFB,21483,26372
+559,IFB Ceiling Fan,Home Appliances,IFB,11399,13271
+560,IFB Iron,Home Appliances,IFB,42310,53582
+561,Bosch Refrigerator,Home Appliances,Bosch,40002,48205
+562,Bosch Washing Machine,Home Appliances,Bosch,11261,15414
+563,Bosch Microwave,Home Appliances,Bosch,19393,23463
+564,Bosch Air Conditioner,Home Appliances,Bosch,8257,9845
+565,Bosch Vacuum Cleaner,Home Appliances,Bosch,14225,19287
+566,Bosch Mixer Grinder,Home Appliances,Bosch,30079,34715
+567,Bosch Electric Kettle,Home Appliances,Bosch,19282,23722
+568,Bosch Water Purifier,Home Appliances,Bosch,6919,9118
+569,Bosch Ceiling Fan,Home Appliances,Bosch,26296,34672
+570,Bosch Iron,Home Appliances,Bosch,41301,57701
+571,Lego Building Blocks,Toys,Lego,3163,4348
+572,Lego Toy Car,Toys,Lego,47358,59730
+573,Lego Puzzle,Toys,Lego,30740,39356
+574,Lego Doll,Toys,Lego,31780,44220
+575,Lego Remote Car,Toys,Lego,28704,37227
+576,Lego Action Figure,Toys,Lego,18530,25016
+577,Lego Board Game,Toys,Lego,3139,4036
+578,Lego Toy Train,Toys,Lego,12188,15277
+579,Lego Soft Toy,Toys,Lego,33787,40057
+580,Lego Robot Toy,Toys,Lego,30008,34609
+581,Funskool Building Blocks,Toys,Funskool,2842,3344
+582,Funskool Toy Car,Toys,Funskool,19140,25048
+583,Funskool Puzzle,Toys,Funskool,40467,48484
+584,Funskool Doll,Toys,Funskool,38457,53801
+585,Funskool Remote Car,Toys,Funskool,42501,54039
+586,Funskool Action Figure,Toys,Funskool,26369,31873
+587,Funskool Board Game,Toys,Funskool,24401,32636
+588,Funskool Toy Train,Toys,Funskool,24823,34399
+589,Funskool Soft Toy,Toys,Funskool,24886,30235
+590,Funskool Robot Toy,Toys,Funskool,38897,48996
+591,Barbie Building Blocks,Toys,Barbie,7105,8853
+592,Barbie Toy Car,Toys,Barbie,27498,37008
+593,Barbie Puzzle,Toys,Barbie,18886,25720
+594,Barbie Doll,Toys,Barbie,47116,61600
+595,Barbie Remote Car,Toys,Barbie,17099,21427
+596,Barbie Action Figure,Toys,Barbie,26447,35808
+597,Barbie Board Game,Toys,Barbie,31883,42863
+598,Barbie Toy Train,Toys,Barbie,47229,55839
+599,Barbie Soft Toy,Toys,Barbie,9422,11153
+600,Barbie Robot Toy,Toys,Barbie,20159,25435
+601,Hot Wheels Building Blocks,Toys,Hot Wheels,42955,51746
+602,Hot Wheels Toy Car,Toys,Hot Wheels,16061,18559
+603,Hot Wheels Puzzle,Toys,Hot Wheels,2136,2469
+604,Hot Wheels Doll,Toys,Hot Wheels,25525,32302
+605,Hot Wheels Remote Car,Toys,Hot Wheels,23969,30328
+606,Hot Wheels Action Figure,Toys,Hot Wheels,6122,7266
+607,Hot Wheels Board Game,Toys,Hot Wheels,17347,22229
+608,Hot Wheels Toy Train,Toys,Hot Wheels,22221,28261
+609,Hot Wheels Soft Toy,Toys,Hot Wheels,22119,26844
+610,Hot Wheels Robot Toy,Toys,Hot Wheels,46209,57313
+611,Bosch Car Battery,Automotive,Bosch,25895,34985
+612,Bosch Engine Oil,Automotive,Bosch,38157,51584
+613,Bosch Tyre,Automotive,Bosch,25070,29752
+614,Bosch Air Filter,Automotive,Bosch,11042,13469
+615,Bosch Spark Plug,Automotive,Bosch,38889,49055
+616,Bosch Car Cover,Automotive,Bosch,39018,45372
+617,Bosch Helmet,Automotive,Bosch,25628,30472
+618,Bosch Bike Chain,Automotive,Bosch,2186,2595
+619,Bosch Brake Pads,Automotive,Bosch,20417,27592
+620,Bosch Wiper Blade,Automotive,Bosch,28271,33481
+621,Castrol Car Battery,Automotive,Castrol,32235,38105
+622,Castrol Engine Oil,Automotive,Castrol,36632,50838
+623,Castrol Tyre,Automotive,Castrol,39123,49609
+624,Castrol Air Filter,Automotive,Castrol,7039,9497
+625,Castrol Spark Plug,Automotive,Castrol,15484,18900
+626,Castrol Car Cover,Automotive,Castrol,40463,50435
+627,Castrol Helmet,Automotive,Castrol,28821,35044
+628,Castrol Bike Chain,Automotive,Castrol,29343,37723
+629,Castrol Brake Pads,Automotive,Castrol,25040,31429
+630,Castrol Wiper Blade,Automotive,Castrol,48648,56994
+631,Michelin Car Battery,Automotive,Michelin,37464,44645
+632,Michelin Engine Oil,Automotive,Michelin,42847,59307
+633,Michelin Tyre,Automotive,Michelin,36179,42516
+634,Michelin Air Filter,Automotive,Michelin,10780,12631
+635,Michelin Spark Plug,Automotive,Michelin,12875,16799
+636,Michelin Car Cover,Automotive,Michelin,7229,9712
+637,Michelin Helmet,Automotive,Michelin,24034,29393
+638,Michelin Bike Chain,Automotive,Michelin,27408,36598
+639,Michelin Brake Pads,Automotive,Michelin,21150,26449
+640,Michelin Wiper Blade,Automotive,Michelin,29234,35519
+641,Exide Car Battery,Automotive,Exide,22711,27365
+642,Exide Engine Oil,Automotive,Exide,31170,38439
+643,Exide Tyre,Automotive,Exide,12004,16519
+644,Exide Air Filter,Automotive,Exide,34167,47364
+645,Exide Spark Plug,Automotive,Exide,25623,30995
+646,Exide Car Cover,Automotive,Exide,4952,6122
+647,Exide Helmet,Automotive,Exide,37073,45523
+648,Exide Bike Chain,Automotive,Exide,31931,42068
+649,Exide Brake Pads,Automotive,Exide,36087,42373
+650,Exide Wiper Blade,Automotive,Exide,16237,21812

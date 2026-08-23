@@ -1,0 +1,51 @@
+Supplier_ID,Supplier_Name,Country,Lead_Time_Days,Rating
+S001,Prime Supplies 1,Germany,10,4.9
+S002,Future Retail Supply 2,India,20,3.6
+S003,BlueSky Logistics 3,USA,13,3.5
+S004,Elite Distributors 4,China,16,5.0
+S005,Prime Supplies 5,Germany,9,4.9
+S006,Global Traders 6,UAE,17,4.1
+S007,Rapid Distributors 7,China,7,4.3
+S008,Elite Distributors 8,India,17,3.7
+S009,Future Retail Supply 9,China,3,4.8
+S010,Star Supply Chain 10,USA,6,4.7
+S011,Star Supply Chain 11,USA,10,4.9
+S012,Future Retail Supply 12,USA,5,4.7
+S013,Rapid Distributors 13,India,20,4.4
+S014,ABC Electronics 14,UAE,17,3.7
+S015,Future Retail Supply 15,India,17,4.8
+S016,Elite Distributors 16,UAE,13,4.7
+S017,BlueSky Logistics 17,India,14,4.3
+S018,Elite Distributors 18,India,6,4.7
+S019,Elite Distributors 19,Japan,7,4.9
+S020,Future Retail Supply 20,India,20,4.8
+S021,Sunrise Imports 21,USA,9,4.2
+S022,BlueSky Logistics 22,Japan,18,3.7
+S023,ABC Electronics 23,China,8,4.5
+S024,Star Supply Chain 24,China,14,4.4
+S025,Star Supply Chain 25,USA,15,4.9
+S026,Global Traders 26,UAE,8,4.2
+S027,ABC Electronics 27,Japan,6,4.0
+S028,Global Traders 28,Germany,11,4.3
+S029,Rapid Distributors 29,Germany,9,4.8
+S030,Sunrise Imports 30,Germany,13,4.4
+S031,Future Retail Supply 31,Germany,3,5.0
+S032,Rapid Distributors 32,Germany,19,3.6
+S033,Star Supply Chain 33,India,7,3.8
+S034,BlueSky Logistics 34,USA,8,4.8
+S035,BlueSky Logistics 35,Japan,8,3.6
+S036,Metro Wholesale 36,Japan,3,4.1
+S037,BlueSky Logistics 37,Japan,3,4.8
+S038,Metro Wholesale 38,India,14,3.8
+S039,ABC Electronics 39,UAE,10,4.0
+S040,Sunrise Imports 40,China,20,4.4
+S041,Future Retail Supply 41,UAE,17,4.6
+S042,ABC Electronics 42,Germany,4,4.8
+S043,Elite Distributors 43,Germany,3,3.7
+S044,Future Retail Supply 44,USA,11,4.2
+S045,Prime Supplies 45,UAE,3,3.7
+S046,Prime Supplies 46,Japan,20,4.8
+S047,Metro Wholesale 47,Japan,10,4.4
+S048,ABC Electronics 48,India,14,4.7
+S049,Rapid Distributors 49,USA,3,3.6
+S050,Prime Supplies 50,India,9,3.9

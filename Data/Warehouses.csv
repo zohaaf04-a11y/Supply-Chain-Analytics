@@ -1,0 +1,11 @@
+Warehouse_ID,Warehouse_Name,City,Region,Capacity
+W001,Hyderabad Warehouse,Hyderabad,South,3798
+W002,Mumbai Warehouse,Mumbai,West,3504
+W003,Delhi Warehouse,Delhi,North,5305
+W004,Bengaluru Warehouse,Bengaluru,South,4576
+W005,Chennai Warehouse,Chennai,South,8683
+W006,Kolkata Warehouse,Kolkata,East,3030
+W007,Pune Warehouse,Pune,West,8008
+W008,Ahmedabad Warehouse,Ahmedabad,West,5161
+W009,Jaipur Warehouse,Jaipur,North,7966
+W010,Lucknow Warehouse,Lucknow,North,5845
