@@ -172,10 +172,21 @@ The Power BI dashboard provides an interactive overview of supply chain performa
 ```text
 Supply-Chain-Analytics/
 │
+├── Data/
+│   ├── Products.csv
+│   ├── Inventory.csv
+│   ├── Orders.csv
+│   ├── Suppliers.csv
+│   └── Warehouses.csv
+│
+├── Python/
+│   └── 01_Generate_Datasets.ipynb
+│
 ├── SQL/
 │   └── supply_chain_analysis.sql
 │
-├── README.md
+├── PowerBI/
+│   ├── supply chain analytics.pbix
+│   └── supply-chain-dashboard.png
 │
-└── Power BI/
-    └── Supply Chain & Inventory Analytics Dashboard
+└── README.md
