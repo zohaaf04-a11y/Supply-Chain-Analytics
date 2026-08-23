@@ -138,12 +138,12 @@ The Power BI dashboard provides an interactive overview of supply chain performa
 
 ### Key KPIs
 
-- Total Revenue: ₹9+ Billion
+- Total Revenue: ₹9bn
 - Total Orders: 50K
 - Total Quantity Sold: 275K
 - Average Order Value: ₹172.21K
 - Total Inventory: 3M
-- Total Inventory Value: ₹72+ Billion
+- Total Inventory Value: ₹72bn
 - Products Below Reorder: 269
 
 ### Dashboard Features
