@@ -97,6 +97,10 @@ SQL was used to analyze:
 
 The Power BI dashboard provides an interactive overview of supply chain performance.
 
+### Dashboard Preview
+
+![Supply Chain Analytics Dashboard](PowerBI/supply-chain-dashboard.png)
+
 ### Key KPIs
 
 - Total Revenue: ₹9+ Billion
