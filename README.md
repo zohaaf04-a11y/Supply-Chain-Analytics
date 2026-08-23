@@ -160,13 +160,13 @@ The Power BI dashboard provides an interactive overview of supply chain performa
 
 ## 🔍 Key Insights
 
-- Electronics generated the highest revenue among categories.
-- H&M T-Shirt was the highest-revenue product in the analyzed product ranking.
-- Mumbai Warehouse recorded the highest warehouse revenue.
-- Several products were below their reorder levels and require replenishment.
-- Supplier performance varies based on revenue contribution, lead time, and rating.
-- Monthly revenue remained relatively consistent throughout 2025.
-
+- **Electronics** generated the highest revenue among the analyzed categories.
+- **H&M T-Shirt** ranked highest among the analyzed products by revenue.
+- **Mumbai Warehouse** recorded the highest warehouse revenue.
+- Several products were identified as requiring **reorder/replenishment**, highlighting potential inventory risks.
+- Supplier performance varied based on **revenue contribution, lead time, and rating**.
+- Monthly revenue remained relatively consistent throughout **2025**, with noticeable variation between months.
+  
 ## 📁 Project Structure
 
 ```text
