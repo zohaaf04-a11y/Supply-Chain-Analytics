@@ -117,6 +117,17 @@ SQL was used to analyze:
 - Warehouse performance
 - Supplier lead times and ratings
 
+### SQL Highlights
+
+The analysis includes queries using:
+
+- `JOIN` operations to combine related tables
+- `GROUP BY` for category, supplier, warehouse, and product analysis
+- Aggregate functions such as `SUM()`, `COUNT()`, and `AVG()`
+- Filtering using `WHERE`
+- Sorting and ranking using `ORDER BY`
+- Date-based analysis for monthly revenue trends
+
 ## 📈 Power BI Dashboard
 
 The Power BI dashboard provides an interactive overview of supply chain performance.
